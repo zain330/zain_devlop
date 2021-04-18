@@ -6,5 +6,5 @@ membuat menu untuk buka puasa
 adzan maghrib buka dan sholat
 adzan isya sholat
 tidur
-masak untuk menu sahur
+masak untuk menu sahur (nasi)
 bangun shaur + sholat subuh
