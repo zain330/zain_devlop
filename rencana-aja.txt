@@ -1,0 +1,9 @@
+rencana ke 1
+
+-adzan dzuhur sholat
+adzan asyar sholat
+membuat menu untuk buka puasa
+adzan maghrib buka dan sholat
+adzan isya sholat
+tidur
+bangun shaur + sholat subuh
